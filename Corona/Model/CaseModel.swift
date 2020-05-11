@@ -7,7 +7,7 @@
 //
 
 import Foundation
-
+//Case Model Obj
 struct CaseModel: Codable {
     let Country: String
     let Lat: String
